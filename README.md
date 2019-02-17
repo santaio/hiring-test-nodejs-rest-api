@@ -17,7 +17,7 @@ Pay attention to good practices regarding API development.
 - Apply Automation Tests using Mocha and Chai
 - Extra - On the same Data Base connect Facebook GraphQL as a different approach to access and request the data
 
-- Connect your GitHub repository to a Heroky App for automatic deploy.
+- Connect your GitHub repository to a Heroku App for automatic deploy.
 - Deploy your application on Heroku.
 - Map all the methods of your API into Postman and share it with us so we can test each one.
 - Create a documentation for your API - you can use some library to help you with it.
